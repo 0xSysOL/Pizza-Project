@@ -11,4 +11,4 @@ A simple C# .NET project for managing Pizza orders.
 
 ## Picture
 
-![Pizza Project UI](Pizza-Project/Pizza Menu.png)
+![Pizza Project UI](Pizza%20Menu.PNG)
