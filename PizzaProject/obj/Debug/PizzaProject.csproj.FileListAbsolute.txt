@@ -1,0 +1,13 @@
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\bin\Debug\Guna.UI2.dll
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.Form1.resources
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaPro.955DED49.Up2Date
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.pdb
+C:\Users\Mr.x\Desktop\Course_14\PizzaProject\obj\Debug\PizzaProject.exe.config
